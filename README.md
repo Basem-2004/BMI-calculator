@@ -32,6 +32,6 @@ The app looks like this:
 
 ![BMI Screenshot](bmi.png)
 
-## Author
+## Created by
 
-Created by **Basem-2004**
+**Basem-2004**
