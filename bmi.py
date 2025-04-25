@@ -1,6 +1,9 @@
-import ctypes
 from settings import *
 import customtkinter as ctk
+try:
+    import ctypes
+except:
+    pass
 
 
 class App(ctk.CTk):
